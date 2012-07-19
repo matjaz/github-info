@@ -1,0 +1,10 @@
+{
+    "auth" : {
+        "username" : "username",
+        "password" : "password"
+    },
+    "repo" : {
+        "user" : "matjaz",
+        "name" : "github-info"
+    }
+}

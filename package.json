@@ -1,0 +1,16 @@
+{
+  "author": "Matjaz Lipus <matjazl@gmail.com>",
+  "name": "github-info",
+  "description": "Lists branches by last commit and shows last commit info.",
+  "version": "0.0.1",
+  "main": "latest.iced",
+  "dependencies": {
+    "iced-coffee-script": "~1.3.3b",
+    "moment": "~1.6.2",
+    "github": "~0.1.3",
+    "nconf": "~0.6.4"
+  },
+  "engines": {
+    "node": "0.8.x"
+  }
+}
